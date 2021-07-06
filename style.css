@@ -1,0 +1,152 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: violet;
+    background-color: gray;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+body {
+    font-family: 'poppins', sans-serif;
+    margin: 0%;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 20%;
+}
+
+.flexible-item {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.top-banner {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+
+.linky {
+    margin-bottom: 50px;
+    text-align: justify;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 15px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 40px;
+    border-radius: 10px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+.half-width img {
+    width: 200%;
+    height: 500px;
+}
+
+#khadok {
+    text-align: justify;
+    padding-right: 15px;
+}
+
+#recipies {
+    color: fuchsia;
+    text-align: center;
+    font-size: 30px;
+}
+
+#recap {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.salad {
+    display: flex;
+}
+
+.salad .title {
+    color: red;
+}
+
+.three {
+    width: 20%;
+    padding-left: 10%;
+}
+
+.three img {
+    height: 350px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px yellowgreen;
+}
+
+.contact {
+    display: flex;
+    text-align: center;
+}
+
+.contact h2 {
+    color: yellowgreen;
+    margin-left: 130px;
+}
+
+.contact input,
+textarea {
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    resize: none;
+}
+
+.contact button {
+    width: 20%;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    background-color: #052d2f;
+    cursor: pointer;
+    padding: 15px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+h2 {
+    color: cyan;
+    margin-right: 15%;
+}
+
+.media-buttons .btn {
+    position: relative;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 32px;
+    padding: 5px;
+    margin: 10px;
+    width: 50px;
+    background-color: white;
+}
+
+footer {
+    background-color: rgb(92, 79, 74);
+    color: aliceblue;
+    text-align: center;
+}
+
+.khasa {
+    font-size: 40px;
+}
